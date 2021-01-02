@@ -49,4 +49,4 @@ You can [file bugs](https://github.com/chrismessina/alfred-instagram-toolkit/iss
 
 Thanks to [A. Nathaniel](https://instagram.com/sozonome) for adding URL support to [InstaDLD](https://instadld.sznm.dev/).
 
-<a href="https://www.alfredforum.com/">Alfred Forum link</a>.
+<a href="https://www.alfredforum.com/topic/16387-workflow-instagram-toolkit-for-alfred/">Alfred Forum link</a>.
