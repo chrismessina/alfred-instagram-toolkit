@@ -37,6 +37,14 @@ This workflow makes it easy to access your own profile and different content typ
 
 # Changelog[¹](https://keepachangelog.com/)
 
+## [v0.1.1] - 2021-02-16
+
+### Changed
+- Replaced Imginn with SearchUsers.com for user search (h/t [ProRock](https://www.alfredforum.com/profile/20643-prorock/))
+
+### Fixed
+- Fixed Copy to Clipboard value for profile URL
+
 ## [v0.1.0] - 2021-01-01
 - Initial Release
 
