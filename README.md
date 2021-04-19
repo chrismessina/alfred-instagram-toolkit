@@ -37,6 +37,11 @@ This workflow makes it easy to access your own profile and different content typ
 
 # Changelog[¹](https://keepachangelog.com/)
 
+## [v0.1.2] - 2021-04-19
+
+### Changed
+- Replaced photo download service with [IGram](https://igram.io/)
+
 ## [v0.1.1] - 2021-02-16
 
 ### Changed
