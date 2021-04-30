@@ -37,6 +37,10 @@ This workflow makes it easy to access your own profile and different content typ
 
 # Changelog[¹](https://keepachangelog.com/)
 
+## [v0.1.3] - 2021-04-29
+### Changed
+- Revised description for `@` keywords
+
 ## [v0.1.2] - 2021-04-19
 
 ### Changed
